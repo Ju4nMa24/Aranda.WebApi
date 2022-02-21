@@ -1,0 +1,36 @@
+{
+  "ErrorMessage": {
+    "Code01": [
+      {
+        "Code": "01",
+        "Message": "No cumple con los criterios de entrada."
+      }
+    ],
+    "Code02": [
+      {
+        "Code": "02",
+        "Message": "El valor ingresado ya existe en la base de datos."
+      }
+    ],
+    "Code03": [
+      {
+        "Code": "03",
+        "Message": "Las credenciales son incorrectas."
+      }
+    ],
+    "Code99": [
+      {
+        "Code": "99",
+        "Message": "Se ha producido un error."
+      }
+    ]
+  },
+  "SuccessMessage": {
+    "Code00": [
+      {
+        "Code": "00",
+        "Message": "Transaccion Exitosa."
+      }
+    ]
+  }
+}
